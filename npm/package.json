@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/weatheralerts",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Weather Alerts returns the severe weather warnings, watches and advisories in effect right now for any point or state in the United States, straight from the National Weather Service. Each alert names the event, how severe and urgent it is, the area covered, when it starts and ends, and what to do.",
   "main": "index.js",
   "types": "index.d.ts",
